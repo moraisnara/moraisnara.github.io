@@ -10,4 +10,6 @@ redirect_from:
 {% include base_path %}
 
 [English CV](cv_english_nara.pdf)
+
+
 [Currículo em Português](cv_portuguese_nara.pdf)
