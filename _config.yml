@@ -28,7 +28,7 @@ author:
   location         : "São Paulo - SP"
   employer         : "USP"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "naraliviamorais@usp.br" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
