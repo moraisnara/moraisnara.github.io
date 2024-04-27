@@ -1,9 +1,12 @@
 ---
 layout: archive
-title: "Publications"
+title: "Reseach"
 permalink: /publications/
 author_profile: true
 ---
+
+De Olho nas Urnas
+
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
