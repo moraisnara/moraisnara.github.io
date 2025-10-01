@@ -5,9 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-[De Olho Nas Urnas: Observatory of the Presence of Women in Politics in the Municipal Elections of 2024 ](https://deolhonasurnas.ufg.br/)
+The Role of Local Politicians on Environmental Degradation: Evidence
+from Brazil (with Bruno Miranda) 
 
-The project's objective is to monitor the candidacies of women councilors, compliance with gender quotas, and the promotion of female participation in political parties. We also monitor the main types of violence (physical, psychological and economic) that affect women in politics.
+Presented at: _ENABER 2024, ANPEC 2024, Microeconomic LAERE 2025_
+
+This paper investigates the role of local political leadership in shaping environmental outcomes in Brazil. Specifically, we examine whether the election of left-wing mayors—who are typically more aligned with pro-environmental agendas—leads to lower levels of environmental degradation. Combining electoral with environmental data, we find that electing a left-wing mayor reduces deforestation by 34 km², nearly 8\% of the control mean. These effects are robust across specifications and bandwidths. The impact is amplified in municipalities ideologically aligned with state and federal governments. We provide suggestive evidence that reduced ties to agribusiness and voter preferences may explain these results. Our findings contribute to the literature on political determinants of environmental policy and underscore the importance of local governments in advancing environmental protection in decentralized governance contexts.
 
 
 {% if site.author.googlescholar %}
