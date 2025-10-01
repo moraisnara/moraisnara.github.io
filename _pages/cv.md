@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[English CV](files/cv_portugues_nara.pdf)
+[English CV](cv_portugues_nara.pdf)
 
 
 [Currículo em Português](cv_portuguese_nara.pdf)
