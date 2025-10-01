@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[English CV](cv_portugues_nara.pdf)
+[English CV](cv_morais_en.pdf) 
 
 
-[Currículo em Português](cv_portuguese_nara.pdf)
+[Currículo em Português](cv_morais_pt.pdf)
