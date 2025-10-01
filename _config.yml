@@ -21,7 +21,7 @@ repository               : "moraisnara/moraisnara.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/foto_cover_page.jpeg"
+  avatar           : "images/foto_oficial.png"
   name             : "Nara Morais"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Economic Theory"
