@@ -7,9 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[English CV]({{ site.baseurl }}/files/cv_morais_en.pdf)  
+
+[Currículo em Português]({{ site.baseurl }}/files/cv_morais_pt.pdf)
+
 {% include base_path %}
-
-[English CV](cv_morais_en.pdf) 
-
-
-[Currículo em Português](cv_morais_pt.pdf)
