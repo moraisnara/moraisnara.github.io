@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[English CV](cv_morais_en.pdf)  
+[English CV](files/cv_morais_en.pdf)  
 
 [Currículo em Português](cv_morais_pt.pdf)
 
